@@ -1,3 +1,6 @@
+## 🎮 Play My Game
+
+[Click here to play the Number Guessing Game](https://number-guessing-game-dzxto9kp5n7gbf5p5v54mm.streamlit.app/)
 🎮 Number Guessing Game
 
 Hey! 👋 Welcome to my Number Guessing Game!
