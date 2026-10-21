@@ -1,44 +1,27 @@
-## 🎮 Play My Game
-
-[Click here to play the Number Guessing Game](https://number-guessing-game-dzxto9kp5n7gbf5p5v54mm.streamlit.app/)
 🎮 Number Guessing Game
+A simple, fun number guessing game built with Python and Streamlit.
 
-Hey! 👋 Welcome to my Number Guessing Game!
+🚀 Play Online
 
-This is one of my first Python projects. I built it to practise the basics of Python and get a little hands-on experience with programming.
+👉 "Click here to play the game" (https://number-guessing-game-dzxto9kp5n7gbf5p5v54mm.streamlit.app/)
+Guess the secret number between 1 and 100. The game will tell you whether your guess is too high or too low!
+✨ Features
+- Random number generation
+- Instant feedback on your guesses
+- Attempt counter
+- Play Again option
+- Web interface powered by Streamlit
 
-💡 About the Game
+💻 Run Locally
 
-In this game, the computer picks a random number between 1 and 100, and your job is to guess it!
-
-Don't worry if you get it wrong. The game gives you hints like "Too high!" or "Too low!" to help you find the correct number. It also keeps track of how many attempts you take.
-
-✨ What Can You Do?
-
-- Guess a number between 1 and 100.
-- Get hints to help you guess correctly.
-- See how many attempts you needed to win.
-- Try entering invalid input and see how the game handles it.
-
+Want to run the project on your own computer?
+1. Install Python.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Install the required dependency:
+   "python -m pip install -r requirements.txt"
+5. Start the web app:
+   "python -m streamlit run app.py"
 🛠️ Built With
-
 - Python
-- The "random" module
-
-▶️ How to Play
-
-Step 1: Make sure Python is installed on your computer.
-
-Step 2: Download this project or clone the repository.
-
-Step 3: Open a terminal inside the project folder and run:
-
-python game.py
-
-Step 4: Start guessing and see how quickly you can find the number! 😄
-
-📚 What I Learned
-
-While making this project, I practised using variables, loops, conditional statements, user input, and error handling. I also learned how to use Git and upload my project to GitHub.
-
-I'm still learning, and this is one of the small projects helping me improve my coding skills. More projects to come! 
+- Streamlit
